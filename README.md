@@ -1,3 +1,3 @@
-lib_deps =
-  # Using a library name
-  Adafruit Fingerprint Sensor Library
+# Fingerprint Lock
+
+Using Arduino and FPC1020
