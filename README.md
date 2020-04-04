@@ -1,2 +1,3 @@
-# Fingerprint-Lock
-FPC1020 with Arduino Nano
+lib_deps =
+  # Using a library name
+  Adafruit Fingerprint Sensor Library
