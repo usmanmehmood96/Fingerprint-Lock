@@ -1,4 +1,6 @@
 #include <Arduino.h>
+#include <SPI.h>
+#include <Wire.h>
 #include "Adafruit_Fingerprint.h"
 
 SoftwareSerial mySerial(2, 3);
